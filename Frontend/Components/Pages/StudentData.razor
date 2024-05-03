@@ -1,0 +1,51 @@
+﻿@page "/students"
+@using StudentCRUD.Domain
+@inject HttpClient Http
+<h3>Student Data</h3>
+@if (students == null)
+{
+    <p><em>Loading..........</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Gender</th>
+                <th>Phone Number</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+
+
+        <tbody>
+            @foreach (var StudentData in students)
+            {
+                <tr>
+                    <td>@StudentData.Id</td>
+                    <td>@StudentData.Name</td>
+                    <td>@StudentData.Email</td>
+                    <td>@StudentData.Gender</td>
+                    <td>@StudentData.Phone</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+}
+@code {
+    List<Student> students = new List<Student>();
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await Http.GetFromJsonAsync<List<Student>>("http://localhost:7881/get-student");
+        if (result != null)
+        {
+            students = result;
+        }
+    }
+}

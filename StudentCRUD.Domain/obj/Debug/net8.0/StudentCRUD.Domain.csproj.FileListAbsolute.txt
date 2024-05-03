@@ -1,0 +1,12 @@
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\bin\Debug\net8.0\StudentCRUD.Domain.deps.json
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\bin\Debug\net8.0\StudentCRUD.Domain.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\bin\Debug\net8.0\StudentCRUD.Domain.pdb
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.AssemblyInfo.cs
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\refint\StudentCRUD.Domain.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.pdb
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\ref\StudentCRUD.Domain.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Domain\obj\Debug\net8.0\StudentCRUD.Domain.csproj.AssemblyReference.cache

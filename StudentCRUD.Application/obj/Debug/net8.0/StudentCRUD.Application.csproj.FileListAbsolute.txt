@@ -1,0 +1,15 @@
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\bin\Debug\net8.0\StudentCRUD.Application.deps.json
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\bin\Debug\net8.0\StudentCRUD.Application.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\bin\Debug\net8.0\StudentCRUD.Application.pdb
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\bin\Debug\net8.0\StudentCRUD.Domain.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\bin\Debug\net8.0\StudentCRUD.Domain.pdb
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.csproj.AssemblyReference.cache
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.AssemblyInfoInputs.cache
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.AssemblyInfo.cs
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.csproj.CopyComplete
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\refint\StudentCRUD.Application.dll
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\StudentCRUD.Application.pdb
+C:\Users\Jeebang\Desktop\Application Development\FirstArchitectureProject\StudentCRUD.Application\obj\Debug\net8.0\ref\StudentCRUD.Application.dll
